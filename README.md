@@ -4,6 +4,8 @@ Phenotypr: a tool to extract conditions and phenotypes from clinical notes
 
 ## Installation
 
+`git clone git@github.com:adityaekawade/Phenotypr.git`
+
 `npm install`
 
 `npm link`
