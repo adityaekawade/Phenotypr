@@ -49,7 +49,7 @@ On the terminal, run:
 
 **Example:**
 
-`phenotypr note.txt`
+`phenotypr notes.txt`
 
 **Response:**
 
